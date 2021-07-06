@@ -20,9 +20,9 @@
 4. npx tsconfig.json
    (or create/copy manually)
 5. setup watch (watch: tsc -w) )
-6. run from dist folder (start: dist:index.js)  
-7. 
-(yarn add _d nodemon)
+6. run from dist folder (start: dist/index.js)  
+7. monitor dist folder ("dev": "nodemon dist/index.js")
+   <br/>(yarn add -D nodemon)
 
    
 
