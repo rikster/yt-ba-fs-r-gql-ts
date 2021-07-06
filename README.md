@@ -23,6 +23,8 @@
 6. run from dist folder (start: dist/index.js)  
 7. monitor dist folder ("dev": "nodemon dist/index.js")
    <br/>(yarn add -D nodemon)
+8. yarn add @mikro-orm/cli @mikro-orm/core @mikro-orm/migrations @mikro-orm/postgresql pg
+ (make sure postgres is installed)
 
    
 
